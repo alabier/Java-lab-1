@@ -3,9 +3,7 @@ public class Kollatz
     private static long maxSteps = 0;
     private static long currentSteps = 0;
 
-    public static void main() {
-        counter();
-    }
+    public static void main() {counter();}
 
     public static long counter(){
         for (long initial = 1; initial < 1000000; initial++) {

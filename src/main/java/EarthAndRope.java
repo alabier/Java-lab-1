@@ -6,6 +6,7 @@ public class EarthAndRope extends Circle{
     public static void main(){
         final double result = getResult();
     }
+
     public static double getResult(){
         Circle earth = new Circle();
         Circle extendedEarth = new Circle();

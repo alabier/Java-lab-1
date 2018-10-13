@@ -1,4 +1,5 @@
 public class PrintDigits {
+
     private static final String[] zero = {"  **** ",
                                           " *    *",
                                           " *    *",

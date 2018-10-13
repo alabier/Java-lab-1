@@ -26,7 +26,6 @@ class Sqrt
         return iter(1.0,arg);
     }
 }
-
 public class FlexibleDeltaSqrt
 {
     public static void main(String[] args)

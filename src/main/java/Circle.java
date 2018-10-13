@@ -2,7 +2,6 @@ import static java.lang.Math.PI;
 import static java.lang.Math.sqrt;
 
     public class Circle {
-
     private double ference, area, radius;
 
     public Circle() {

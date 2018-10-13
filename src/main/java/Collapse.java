@@ -50,5 +50,4 @@ class Collapse {
         }
         return buildingCollapsed.toString();
     }
-
-} 
+}

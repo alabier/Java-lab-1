@@ -4,9 +4,8 @@ public class Pool {
     public static final double priceOfFence = 2000.0;
     public static final double priceOfSidewalk = 1000.0;
 
-    public static void main(){
-        final double result = getResult();
-    }
+    public static void main(){final double result = getResult();}
+
     public static double getResult(){
         double result = 0;
         Circle pool = new Circle();

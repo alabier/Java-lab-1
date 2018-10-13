@@ -2,6 +2,7 @@ public class Expand {
     public static void main(String[] args){
         expand(args[0]);
     }
+
     public static String expand(String toExpand){
         String expanded = "";
         String[] collapsedArray = toExpand.split(",");
